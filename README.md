@@ -121,7 +121,7 @@ Welcome to Opal! This is a simple and intuitive event management system that all
 
 ## Contributing
 
-Feel free to suggest improvements or report issues via teams (escrira_aehit@students.vizja.pl).
+Feel free to suggest improvements or report issues via email (therafaeljr03@gmail.com).
 
 ## Contact
 
